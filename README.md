@@ -1,6 +1,21 @@
 Data Quality
 ============
 
+DQ v2 — New Search Engine Data Quality Toolkit
+===============================================
+
+**DQ v2 is the new Python-based Data Quality Toolkit for Apache Solr,
+Elasticsearch, and OpenSearch.** Find the current project, documentation, and
+source code here:
+
+**[https://github.com/ttennebkram/dq](https://github.com/ttennebkram/dq)**
+
+This Original Java Project
+--------------------------
+
+This repository contains the original Java Data Quality project **from 12 years
+ago**.
+
 Preliminary DQ / Data Quality experiments and related utilities.
 
 Note: these tools have evolved beyond just "Data Quality", read the various other sections below.
@@ -563,4 +578,3 @@ All under ```src/main/java/com/lucidworks/dq/util/```
 * Ajax/HTML5 wrapper might be nice
 * Fix indenting to be consistently just 2 spaces
 * Javadoc
-
